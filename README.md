@@ -1,5 +1,7 @@
 ## Blogster Node App with React, MongoDB, Redis, Google Auth and AWS S3
 
+![node.js is shiny](http://roshangrewal.com/junk/node.gif)
+
 1. Setup
 
 - Clone Repo
