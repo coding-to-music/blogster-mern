@@ -34,8 +34,6 @@ mongoose.Query.prototype.exec = async function () {
       : new this.model(doc);
   }
 
-  console.log('--- CACHED MISS ---');
-
   const document = await exec.apply(this, arguments);
 
   client.hset(this._hashKey, key, JSON.stringify(document), 'EX', 10);
