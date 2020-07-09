@@ -2,6 +2,8 @@
 
 ![node.js is shiny](http://roshangrewal.com/junk/node.gif)
 
+[![Build Status](https://travis-ci.org/roshangrewal/blogster-mern.svg?branch=master)](https://travis-ci.org/roshangrewal/blogster-mern)
+
 1. Setup
 
 - Clone Repo
