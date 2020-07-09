@@ -1,4 +1,6 @@
 node_modules
-config
+config/dev.js
+config/ci.js
 nohup.out
-package-lock.json
+package-lockk.json
+
