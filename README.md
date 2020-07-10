@@ -1,6 +1,6 @@
-## Blogster Node App with React, MongoDB, Redis, Google Auth and AWS S3
-
 ![node.js is shiny](http://roshangrewal.com/junk/node.gif)
+
+## Blogster Node App with React, MongoDB, Redis, Google Auth and AWS S3
 
 [![Build Status](https://travis-ci.org/roshangrewal/blogster-mern.svg?branch=master)](https://travis-ci.org/roshangrewal/blogster-mern)
 
