@@ -11,11 +11,11 @@ class BlogShow extends Component {
     if (this.props.blog.imageUrl) {
       return (
         <img
-          alt="blog-photo"
           src={
             'https://blogster-mern.s3.ap-south-1.amazonaws.com/' +
             this.props.blog.imageUrl
           }
+          alt="blogpost-img-blogster"
         />
       );
     }
