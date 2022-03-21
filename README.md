@@ -4,6 +4,12 @@
 
 [![Build Status](https://travis-ci.org/roshangrewal/blogster-mern.svg?branch=master)](https://travis-ci.org/roshangrewal/blogster-mern)
 
+https://github.com/coding-to-music/blogster-mern
+
+By Roshan Grewal https://github.com/roshangrewal
+
+https://github.com/roshangrewal/blogster-mern
+
 1. Setup
 
 - Clone Repo
